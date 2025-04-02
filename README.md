@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## Dream Job Wish List
 
-- 👌 My tech stack preference goes for non-compiled languages and frameworks that are well established (10y+)
+- 👌 My tech stack preference goes for non-compiled typed languages and frameworks that are well established (10y+)
 - 👥 Team that's fun, yet professional
 - 📱 Product and industry that make a positive change
 
