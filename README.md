@@ -34,7 +34,9 @@ Here are some ideas to get you started:
 
 ### 🛠️ Tech Stack & Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,aws,visualstudio,vscode,git,github,powershell,java,mongodb,mysql,nodejs,bitbucket,notion,stackoverflow,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,tailwind,jquery,nodejs,visualstudio,vscode)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,aws,git,github,powershell,java,bitbucket,notion,stackoverflow,figma)](https://skillicons.dev)
 
 
 #### 💡 **Soft Skills**
