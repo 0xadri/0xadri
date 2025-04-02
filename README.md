@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I was developer from 2009 to 2017. I am now resuming my career in programming after a 7-year break during which I had non-technical positions in the Web3 industry.
 - ⚡ As of February 2025 I am getting back up-to-speed by doing online courses, certifications and hands-on projects.
-- 🌱 My latest self-learning includes Typescript, React, React Testing, React Routing, React Native, Redux, NextJS, and AWS.
+- 🌱 My latest self-learnings include Typescript, React, React Testing, React Routing, React Native, Redux, NextJS, and AWS.
 - 🎮 My hobbies? Movies, music/concerts, kitesurfing, and freediving/apnea.
 
 ## Dream Job Wish List
