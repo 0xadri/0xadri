@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 👌 My tech stack preference goes for non-compiled typed languages and frameworks that are well established (10y+)
 - 👥 Team that's fun, yet professional
-- 📱 Product and industry that make a positive change
+- 📱 Product and industry that actually have utility
 
 ---
 
@@ -41,11 +41,7 @@ Here are some ideas to get you started:
 
 #### 💡 **Soft Skills**
 
-- 10y Remote Work
-- Team Player
-- Problem Solver
-- Quick Learner
-- Self Driven
+10y Remote Work · Self Driven · Team Player · Problem Solver · Quick Learner
 
 ---
 
