@@ -1,51 +1,20 @@
-## Hi there 👋
-
-<!--
-**0xadri/0xadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Hi there
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&width=435&lines=Hello%2C+it's+Adrien;Fullstack+Developer)](https://git.io/typing-svg)
 
-## About Me
+# About Me
 
-- 🔭 I was developer from 2009 to 2017. I am now resuming my career in programming after a 7-year break during which I had non-technical positions in the Web3 industry.
-- ⚡ As of February 2025 I am getting back up-to-speed by doing online courses, certifications and hands-on projects.
-- 🌱 My latest self-learnings include Typescript, React, React Testing, React Routing, React Native, Redux, NextJS, and AWS.
-- 🎮 My hobbies? Movies, music/concerts, kitesurfing, and freediving/apnea.
+I am resuming my software developer career after a 7-year break during which I had non-technical positions in the web3 industry. I used to be a programmer from 2009 to 2017.
 
-## Dream Job Wish List
+As of February 2025 I am getting back up-to-speed by doing online courses, certifications and hands-on projects. More below in "Currently Working On" section.
 
-- 👌 My tech stack preference goes for non-compiled typed languages and frameworks that are well established (10y+)
-- 👥 Team that's fun, yet professional
-- 📱 Product and industry that actually have utility
-
----
-
-### 🛠️ Tech Stack & Skills
+# 🛠️ Tech Stack & Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,tailwind,jquery,nodejs,visualstudio,vscode)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,aws,git,github,powershell,java,bitbucket,notion,stackoverflow,figma)](https://skillicons.dev)
 
-
-#### 💡 **Soft Skills**
-
-10y Remote Work · Self Driven · Team Player · Problem Solver · Quick Learner
-
----
-
-## 🚀 Currently Working On
+# 🚀 Currently Working On
 
 Fullstack Javascript self-studies. Technologies include: Vanilla JavaScript, Typescript, ReactJS, React Native, NextJS, Testing (Jest, RTL), Redux (RTK, ImmerJS), NextAuth, MongoDB, Mongoose, TailwindCSS, Vite, NodeJS, AWS.
 
@@ -62,8 +31,22 @@ Fullstack Javascript self-studies. Technologies include: Vanilla JavaScript, Typ
 - [React Advanced course (codecademy)](https://www.codecademy.com/learn/learn-advanced-react) ✅ Completed in Feb 2025
 - [React 101 course (codecademy)](https://www.codecademy.com/learn/react-101) ✅ Completed in Feb 2025
 
----
+# 💡 **Soft Skills**
 
-## 📫 Get in Touch
+10y Remote Work · Self Driven · Team Player · Problem Solver · Quick Learner
 
-- **LinkedIn**:  [Adrien's LinkedIn](https://www.linkedin.com/in/adrienbe/)
+# 🎮 Hobbies 
+
+Movies · music/concerts · kitesurfing · freediving/apnea
+
+# ✨ Dream Job
+
+👌 Tech stack: non-compiled typed languages and frameworks that are well established (10y+)
+
+👥 Team: fun, yet professional
+
+📱 Product: that actually have utility
+
+# 📫 Get in Touch
+
+**LinkedIn**:  [Adrien's LinkedIn](https://www.linkedin.com/in/adrienbe/)
