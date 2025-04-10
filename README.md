@@ -51,7 +51,7 @@ Fullstack Javascript self-studies. Technologies include: Vanilla JavaScript, Typ
 
 - React hands-on project, "Movies Taste App" 🚧 Working in progress...
 - [NextJS hands-on project, "Properties Listing App" (udemy)](https://www.udemy.com/course/nextjs-from-scratch/) ✅ Completed in Apr 2025 :: [Code Repo](https://github.com/0xadri/propertypulse) :: [Try App](https://propertypulse-l648ru5yl-adris-projects-12737042.vercel.app/)
-- [AWS Cloud Practitioner CLF-C02 Certification](https://aws.amazon.com/certification/certified-cloud-practitioner/) ✅ Completed in Apr 2025
+- [AWS Cloud Practitioner CLF-C02 Certification](https://aws.amazon.com/certification/certified-cloud-practitioner/) ✅📜 Certification Passed on Apr 2nd 2025
 - [AWS Cloud Practitioner 6x mock tests (udemy)](https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/)  ✅ Completed in Mar 2025
 - [AWS Cloud Practitioner course (udemy)](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/) ✅ Completed in Mar 2025
 - [React Native course (codecademy)](https://www.codecademy.com/learn/learn-react-native) ✅ Completed in Mar 2025
