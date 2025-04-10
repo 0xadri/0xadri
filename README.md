@@ -6,7 +6,7 @@
 
 I am resuming my software developer career after a 7-year break during which I had non-technical positions in the web3 industry. I used to be a programmer from 2009 to 2017.
 
-As of February 2025 I am getting back up-to-speed by doing online courses, certifications and hands-on projects. More below in "Currently Working On" section.
+As of February 2025 I am kicking this off by doing online courses, certifications and hands-on projects. More below in "Currently Working On" section.
 
 # 🛠️ Tech Stack & Skills
 
