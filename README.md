@@ -51,8 +51,20 @@ Here are some ideas to get you started:
 
 ## 🚀 Currently Working On
 
-- Coming Soon...
+Fullstack Javascript self-studies. Technologies include: Vanilla JavaScript, Typescript, ReactJS, React Native, NextJS, Testing (Jest, RTL), Redux (RTK, ImmerJS), NextAuth, MongoDB, Mongoose, TailwindCSS, Vite, NodeJS, AWS.
 
+- React hands-on project, "Movies Taste App" 🚧 Working in progress...
+- [NextJS hands-on project, "Properties Listing App" (udemy)](https://www.udemy.com/course/nextjs-from-scratch/) ✅ Completed in Apr 2025
+- [AWS Cloud Practitioner CLF-C02 Certification](https://aws.amazon.com/certification/certified-cloud-practitioner/) ✅ Completed in Apr 2025
+- [AWS Cloud Practitioner 6x mock tests (udemy)](https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/)  ✅ Completed in Mar 2025
+- [AWS Cloud Practitioner course (udemy)](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/) ✅ Completed in Mar 2025
+- [React Native course (codecademy)](https://www.codecademy.com/learn/learn-react-native) ✅ Completed in Mar 2025
+- [Typescript course (codecademy)](https://www.codecademy.com/enrolled/courses/learn-typescript) ✅ Completed in Mar 2025
+- [Redux course (codecademy)](https://www.codecademy.com/learn/learn-redux) ✅ Completed in Feb/Mar 2025
+- [React Testing course (codecademy)](https://www.codecademy.com/learn/learn-react-testing) ✅ Completed in Feb 2025
+- [React Router course (codecademy)](https://www.codecademy.com/learn/learn-react-router) ✅ Completed in Feb 2025
+- [React Advanced course (codecademy)](https://www.codecademy.com/learn/learn-advanced-react) ✅ Completed in Feb 2025
+- [React 101 course (codecademy)](https://www.codecademy.com/learn/react-101) ✅ Completed in Feb 2025
 
 ---
 
