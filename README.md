@@ -33,7 +33,7 @@ Fullstack Javascript self-studies.
 
 Tech covered include: 
 
-Vanilla JavaScript · Typescript · ReactJS · React Native · NextJS · NodeJS · MongoDB · Mongoose · Cloudinary · Vercel · AWS · Vite · NextAuth (GoogleAuth) · Testing (Jest, RTL) · Redux (RTK, ImmerJS) · Mapbox maps · React Geocode · TailwindCSS.
+Vanilla JavaScript · Typescript · ReactJS · React Native · NextJS · NodeJS · MongoDB · Mongoose · Cloudinary · Rest API · Vercel · AWS · Vite · NextAuth (GoogleAuth) · Testing (Jest, RTL) · Redux (RTK, ImmerJS) · Mapbox maps · React Geocode · TailwindCSS.
 
 # 💡 **Soft Skills**
 
