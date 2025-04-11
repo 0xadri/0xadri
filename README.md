@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&width=435&lines=Hello%2C+it's+Adrien;Fullstack+Developer)](https://git.io/typing-svg)
 
-# About Me
+# 🙋‍♂️ About Me
 
 I am resuming my software developer career after a 7-year break during which I had non-technical positions in the web3 industry. I used to be a programmer from 2009 to 2017.
 
-As of February 2025 I kicked this off by doing online courses, certifications and hands-on projects. More below.
+As of February 2025 I kicked this off by doing online courses, certifications and hands-on projects. See below.
 
-# 🛠️ Tech Stack & Skills
+# 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,tailwind,jquery,nodejs,visualstudio,vscode)](https://skillicons.dev)
 
@@ -49,4 +49,6 @@ Movies · music/concerts · kitesurfing · freediving/apnea
 
 # 📫 Get in Touch
 
-**LinkedIn**:  [Adrien's LinkedIn](https://www.linkedin.com/in/adrienbe/)
+**LinkedIn**: [Adrien's LinkedIn](https://www.linkedin.com/in/adrienbe/)
+
+**Resume**: Available On Request · *covers 2009-2017 in details*
