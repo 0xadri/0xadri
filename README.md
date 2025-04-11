@@ -16,7 +16,7 @@ As of February 2025 I kicked this off by doing online courses, certifications an
 
 # 🚀 Currently Working On
 
-Fullstack Javascript self-studies. Technologies include: Vanilla JavaScript, Typescript, ReactJS, React Native, NextJS, Testing (Jest, RTL), Redux (RTK, ImmerJS), NextAuth, MongoDB, Mongoose, TailwindCSS, Vite, NodeJS, AWS.
+Fullstack Javascript self-studies.
 
 - React hands-on project, "Movies Taste App" 🚧 Working in progress...
 - [NextJS hands-on project, "Properties Listing App" (udemy)](https://www.udemy.com/course/nextjs-from-scratch/) ✅ Completed in Apr 2025 :: [Code Repo](https://github.com/0xadri/propertypulse) :: [Try App](https://propertypulse-l648ru5yl-adris-projects-12737042.vercel.app/)
@@ -30,6 +30,10 @@ Fullstack Javascript self-studies. Technologies include: Vanilla JavaScript, Typ
 - [React Router course (codecademy)](https://www.codecademy.com/learn/learn-react-router) ✅ Completed in Feb 2025
 - [React Advanced course (codecademy)](https://www.codecademy.com/learn/learn-advanced-react) ✅ Completed in Feb 2025
 - [React 101 course (codecademy)](https://www.codecademy.com/learn/react-101) ✅ Completed in Feb 2025
+
+Tech covered include: 
+
+Vanilla JavaScript · Typescript · ReactJS · React Native · NextJS · NodeJS · MongoDB · Mongoose · Cloudinary · Vercel · AWS · Vite · NextAuth (GoogleAuth) · Testing (Jest, RTL) · Redux (RTK, ImmerJS) · Mapbox maps · React Geocode · TailwindCSS.
 
 # 💡 **Soft Skills**
 
