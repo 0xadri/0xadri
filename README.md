@@ -16,9 +16,9 @@ As of February 2025 I kicked this off by doing online courses, certifications an
 
 # 🚀 Currently Working On
 
-Fullstack Javascript self-studies.
+### Fullstack Javascript Self-Studies
 
-- React hands-on project, "MovieFan App" 🚧 In Progress... :: [Code Repo](https://github.com/0xadri/mini-app/tree/main/mini-app) :: [Try App](http://movie-fan-app.s3-website.eu-north-1.amazonaws.com/)
+- React hands-on project, "MovieFan App" ✅ Completed in Apr 2025 :: [Code Repo](https://github.com/0xadri/mini-app/tree/main/mini-app) :: [Try App](http://movie-fan-app.s3-website.eu-north-1.amazonaws.com/)
 - [NextJS hands-on project, "Properties Listing App" (udemy)](https://www.udemy.com/course/nextjs-from-scratch/) ✅ Completed in Apr 2025 :: [Code Repo](https://github.com/0xadri/propertypulse) :: [Try App](https://propertypulse-l648ru5yl-adris-projects-12737042.vercel.app/)
 - [AWS Cloud Practitioner CLF-C02 Certification](https://aws.amazon.com/certification/certified-cloud-practitioner/) ✅📜 Certification Passed on Apr 2nd 2025
 - [AWS Cloud Practitioner 6x mock tests (udemy)](https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/)  ✅ Completed in Mar 2025
@@ -31,9 +31,13 @@ Fullstack Javascript self-studies.
 - [React Advanced course (codecademy)](https://www.codecademy.com/learn/learn-advanced-react) ✅ Completed in Feb 2025
 - [React 101 course (codecademy)](https://www.codecademy.com/learn/react-101) ✅ Completed in Feb 2025
 
-Tech covered include: 
+### Tech Covered
 
-Vanilla JavaScript · Typescript · ReactJS · React Native · NextJS · NodeJS · MongoDB · Mongoose · Cloudinary · Rest API · Vercel · AWS · Vite · NextAuth (GoogleAuth) · Testing (Jest, RTL) · Redux (RTK, ImmerJS) · Mapbox maps · React Geocode · TailwindCSS.
+ * Vanilla JavaScript · Typescript · ReactJS · React Native · NextJS · NodeJS · MongoDB · Mongoose · Cloudinary · Rest API · Vercel · AWS · Vite · NextAuth (GoogleAuth) · Testing (Jest, RTL) · Redux (RTK, ImmerJS) · Mapbox maps · React Geocode · TailwindCSS.
+
+ * ReactJS includes re-renders, jsx, states, props, hooks, effects, context api, prev, and more.
+ 
+ * JavaScript includes JS ES6+, spread syntax, destructuring, fetch, promises, async/await, callbacks, and more.
 
 # 💡 **Soft Skills**
 
