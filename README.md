@@ -39,10 +39,6 @@ Vanilla JavaScript · Typescript · ReactJS · React Native · NextJS · NodeJS 
 
 10y Remote Work · Self Driven · Team Player · Problem Solver · Quick Learner
 
-# 🎮 Hobbies 
-
-Movies · music/concerts · kitesurfing · freediving/apnea
-
 # ✨ Dream Job
 
 👌 Tech stack: non-compiled typed languages and frameworks that are well established (10y+)
@@ -50,6 +46,10 @@ Movies · music/concerts · kitesurfing · freediving/apnea
 👥 Team: fun, yet professional
 
 📱 Product: that actually have utility
+
+# 🎮 Hobbies 
+
+Movies · music/concerts · kitesurfing · freediving/apnea
 
 # 📫 Get in Touch
 
