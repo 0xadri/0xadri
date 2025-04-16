@@ -34,7 +34,7 @@ As of February 2025 I kicked this off by doing online courses, certifications an
 
 ### Tech Covered
 
-`JavaScript` · `Typescript` · `React` · `React Native` · `NextJS` · `NodeJS` · `MongoDB` · `Mongoose` · `Cloudinary` · `Rest API` · `Vercel` · `AWS` · `Vite` · `NextAuth (GoogleAuth)` · `Testing (Jest, RTL)` · `Redux (RTK, ImmerJS)` · `Mapbox maps` · `React Geocode` · `TailwindCSS`
+`JavaScript` · `Typescript` · `React` · `React Native` · `NextJS` · `NodeJS` · `MongoDB` · `Mongoose` · `Cloudinary` · `Data Fetching & Rest APIs` · `Vercel` · `AWS` · `Vite` · `NextAuth (GoogleAuth)` · `Testing (Jest, RTL)` · `Redux (RTK, ImmerJS)` · `Mapbox maps` · `React Geocode` · `TailwindCSS`
 
 ✣ `React` includes `re-renders`, `jsx`, `states`, `props`, `hooks`, `effects`, `context api`, `prev`.
  
