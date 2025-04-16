@@ -34,11 +34,11 @@ As of February 2025 I kicked this off by doing online courses, certifications an
 
 ### Tech Covered
 
- * Vanilla JavaScript · Typescript · ReactJS · React Native · NextJS · NodeJS · MongoDB · Mongoose · Cloudinary · Rest API · Vercel · AWS · Vite · NextAuth (GoogleAuth) · Testing (Jest, RTL) · Redux (RTK, ImmerJS) · Mapbox maps · React Geocode · TailwindCSS.
+`JavaScript` · `Typescript` · `React` · `React Native` · `NextJS` · `NodeJS` · `MongoDB` · `Mongoose` · `Cloudinary` · `Rest API` · `Vercel` · `AWS` · `Vite` · `NextAuth (GoogleAuth)` · `Testing (Jest, RTL)` · `Redux (RTK, ImmerJS)` · `Mapbox maps` · `React Geocode` · `TailwindCSS`
 
- * ReactJS includes re-renders, jsx, states, props, hooks, effects, context api, prev, and more.
+✣ `React` includes `re-renders`, `jsx`, `states`, `props`, `hooks`, `effects`, `context api`, `prev`.
  
- * JavaScript includes JS ES6+, spread syntax, destructuring, fetch, promises, async/await, callbacks, and more.
+✣ `JavaScript` includes `ES6+`, `spread syntax`, `destructuring`, `fetch`, `promises`, `async/await`, `callbacks`.
 
 # 💡 **Soft Skills**
 
