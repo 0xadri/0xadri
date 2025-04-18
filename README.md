@@ -18,7 +18,7 @@ As of February 2025 I kicked this off by doing online courses, certifications an
 
 ### Fullstack Javascript Self-Studies
 
-- React hands-on project · Name TBD 🚧🧱👷👷‍♀️🧑‍🏭 App In Construction... [Repo + App Link](https://github.com/0xadri/imakokode)
+- React hands-on project · App In Construction... 🚧🧱👷👷‍♀️🧑‍🏭 [Repo + App Link](https://github.com/0xadri/ima-kokode)
 - React hands-on project · "MovieFan App" ✅ Completed in Apr 2025 🟢 [Repo + App Link](https://github.com/0xadri/mini-app/tree/main/mini-app)
 - [NextJS hands-on project · "Properties Listing App" (udemy)](https://www.udemy.com/course/nextjs-from-scratch/) ✅ Completed in Apr 2025 🟢 [Repo + App Link](https://github.com/0xadri/propertypulse)
 - [AWS Cloud Practitioner CLF-C02 Certification](https://aws.amazon.com/certification/certified-cloud-practitioner/) ✅📜 Certification Passed on Apr 2nd 2025
