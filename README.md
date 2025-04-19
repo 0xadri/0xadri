@@ -21,7 +21,7 @@ As of February 2025 I kicked this off by doing online courses, certifications an
 - React Project · App In Construction... 🚧🧱👷👷‍♀️🧑‍🏭 [Repo + App Link](https://github.com/0xadri/ima-kokode)
 - [React Epic Guide · Course & Projects · Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) 🚧🧱👷👷‍♀️🧑‍🏭 In Progress...
 - React Project · MovieFan App ✅ Completed in Apr 2025 🟢 [Repo + App Link](https://github.com/0xadri/mini-app/tree/main/mini-app)
-- [NextJS project · Properties Listing App · udemy](https://www.udemy.com/course/nextjs-from-scratch/) ✅ Completed in Apr 2025 🟢 [Repo + App Link](https://github.com/0xadri/propertypulse)
+- [NextJS Properties Listing App · Course & Project · udemy](https://www.udemy.com/course/nextjs-from-scratch/) ✅ Completed in Apr 2025 🟢 [Repo + App Link](https://github.com/0xadri/propertypulse)
 - [AWS Cloud Practitioner CLF-C02 · Certification](https://aws.amazon.com/certification/certified-cloud-practitioner/) ✅📜 Certification Passed on Apr 2nd 2025
 - [AWS Cloud Practitioner · 6x Mock Tests · Udemy](https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/)  ✅ Completed in Mar 2025
 - [AWS Cloud Practitioner · Course · Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/) ✅ Completed in Mar 2025
