@@ -37,7 +37,7 @@ As of February 2025 I kicked this off by doing online courses, certifications an
 
 ### Notes
 
-- [All My Tech Notes](https://github.com/0xadri/notes-js) · I always take notes since my first days programming in 2008
+- [All My Tech Notes](https://github.com/0xadri/notes-js) · I always take notes
 
 ### Tech Covered
 
