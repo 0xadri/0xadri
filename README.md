@@ -8,11 +8,7 @@ I am resuming my software developer career after a 7-year break. I used to be a 
 
 As of February 2025 I kicked this off by doing online courses, certifications and hands-on projects. See below.
 
-# 🛠️ Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,tailwind,jquery,nodejs,visualstudio,vscode)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,aws,git,github,powershell,java,bitbucket,notion,stackoverflow,figma)](https://skillicons.dev)
+----------------------------------------
 
 # 🚀 Currently Working On
 
@@ -48,7 +44,16 @@ As of February 2025 I kicked this off by doing online courses, certifications an
  
 ✣ `JavaScript` includes `ES6+`, `spread syntax`, `destructuring`, `fetch`, `promises`, `async/await`, `callbacks`.
 
-# 💡 **Soft Skills**
+----------------------------------------
+
+# 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,tailwind,jquery,nodejs,visualstudio,vscode)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,aws,git,github,powershell,java,bitbucket,notion,stackoverflow,figma)](https://skillicons.dev)
+
+
+# 💡 Soft Skills
 
 10y Remote Work · Self Driven · Team Player · Problem Solver · Quick Learner
 
