@@ -6,7 +6,7 @@
 
 I am resuming my software developer career after a 7-year break. I used to be a programmer from 2009 to 2017.
 
-As of February 2025 I kicked this off by doing online courses, certifications and hands-on projects. See below.
+As of February 2025 I kicked this off by doing online courses, certifications and hands-on projects. More below.
 
 ----------------------------------------
 
@@ -15,7 +15,7 @@ As of February 2025 I kicked this off by doing online courses, certifications an
 ### Fullstack JavaScript Self-Studies
 
 - React App · Musicians Patchwork App · 🚧 In Construction... · [Code Repo](https://github.com/0xadri/poster-it-app)
-- [React Epic Guide · Course & Projects · Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) · 🟩⬜⬜️⬜️ 28% Complete... 
+- [React Epic Guide · Course & Projects · Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) · 🟩⬜⬜️⬜️ 31% Complete... 
 
   ╰┈➤ FYI this one is chunky and takes 6+ weeks if you do it full time
 - 4 React Mini Apps: Project Mgmt App, Tic-Tac-Toe Game, Investment Calculator, Timer Game  ✅ Completed in Apr 2025 🚀 [Repo + App Link](https://github.com/0xadri/ima-kokode)
@@ -71,6 +71,8 @@ Movies · music/concerts · kitesurfing · freediving/apnea
 
 # 📫 Get in Touch
 
-**LinkedIn**: [Adrien's LinkedIn](https://www.linkedin.com/in/adrienbe/)
+**LinkedIn**: [Adrien on LinkedIn](https://www.linkedin.com/in/adrienbe/)
+
+**Stackoverflow**: [Adrien on Stackoverflow](https://stackoverflow.com/users/759452/adri-w-ukraine) · *20K+ points*
 
 **Resume**: Available On Request · *covers 2009-2017 in details*
