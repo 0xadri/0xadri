@@ -14,12 +14,12 @@ As of February 2025 I kicked this off by doing online courses, certifications an
 
 ### Fullstack JavaScript Self-Studies
 
-- React App · Musicians Patchwork App · 🚧 In Construction... · [Code Repo](https://github.com/0xadri/poster-it-app)
-- [React Epic Guide · Course & Projects · Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) · 🟩⬜⬜️⬜️ 31% Complete... 
+- React Project · Music Fan App ✅ Completed in May 2025 🚀 [Repo + App Link](https://github.com/0xadri/poster-it-app)
+- [React Epic Guide · Course & Projects · Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) · 🟩🟩⬜️⬜️ 40% Complete... 
 
   ╰┈➤ FYI this one is chunky and takes 6+ weeks if you do it full time
-- 4 React Mini Apps: Project Mgmt App, Tic-Tac-Toe Game, Investment Calculator, Timer Game  ✅ Completed in Apr 2025 🚀 [Repo + App Link](https://github.com/0xadri/ima-kokode)
-- React Project · MovieFan App ✅ Completed in Apr 2025 🚀 [Repo + App Link](https://github.com/0xadri/mini-app/tree/main/mini-app)
+- 4-1 React Project: Project Mgmt App, Tic-Tac-Toe Game, Investment Calculator, Timer Game  ✅ Completed in Apr 2025 🚀 [Repo + App Link](https://github.com/0xadri/ima-kokode)
+- React Project · Movie Fan App ✅ Completed in Apr 2025 🚀 [Repo + App Link](https://github.com/0xadri/mini-app/tree/main/mini-app)
 - [NextJS Properties Listing App · Course & Project · Udemy](https://www.udemy.com/course/nextjs-from-scratch/) ✅ Completed in Apr 2025 🚀 [Repo + App Link](https://github.com/0xadri/propertypulse)
 - [AWS Cloud Practitioner CLF-C02 · Certification](https://aws.amazon.com/certification/certified-cloud-practitioner/) ✅📜 Certification Passed on Apr 2nd 2025
 - [AWS Cloud Practitioner · 6x Mock Tests · Udemy](https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/)  ✅ Completed in Mar 2025
