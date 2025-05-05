@@ -4,11 +4,11 @@
 
 # 🙋‍♂️ About Me
 
-I am resuming my software developer career after a 7-year break. I used to be a programmer from 2010 to 2017. 
+I used to be a software developer from 2010 to 2017. I took a 7-year break where I still worked in tech but in non-technical positions.
 
 My education includes a BEng Hons (Bachelor) in Computer Engineering, a Developer Bootcamp at FDM Group (London/UK) and a Java Certification.
 
-As of February 2025 I started some Fullstack JavaScript self-studies.
+As of February 2025 I am resuming my programmer career, kicking this off with some Fullstack JavaScript self-studies.
 
 ## Tech Covered So Far
 
