@@ -4,15 +4,19 @@
 
 # 🙋‍♂️ About Me
 
-I am resuming my software developer career after a 7-year break. I used to be a programmer from 2009 to 2017.
+I am resuming my software developer career after a 7-year break. I used to be a programmer from 2010 to 2017. My education includes a BEng Hons (Bachelor) in Computer Engineering, a Java SE Certification, a Developer Bootcamp at FDM Group (London/UK).
 
-As of February 2025 I kicked this off by doing online courses, certifications and hands-on projects. More below.
+As of February 2025 I started some Fullstack JavaScript self-studies.
 
-----------------------------------------
+## Tech Covered So Far
 
-# 💪 Currently Working On
+`JavaScript` · `Typescript` · `React` · `React Native` · `NextJS` · `NodeJS` · `MongoDB` · `Mongoose` · `Cloudinary` · `Data Fetching & Rest APIs` · `Vercel` · `AWS` · `Vite` · `NextAuth (GoogleAuth)` · `Testing (Jest, RTL)` · `Redux (RTK, ImmerJS)` · `Mapbox maps` · `React Geocode` · `TailwindCSS`
 
-### Fullstack JavaScript Self-Studies
+✣ `React` includes `re-renders`, `jsx`, `states`, `props`, `hooks`, `effects`, `context api`, `prev`, `best practices`.
+ 
+✣ `JavaScript` includes `ES6+`, `spread syntax`, `destructuring`, `fetch`, `promises`, `async/await`, `callbacks`.
+
+## Track Record
 
 - Project: Music Fan App ✅ Completed in May 2025 🚀 [Repo + App Link](https://github.com/0xadri/poster-it-app)
 - Projects & Course: [React Epic Guide · Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) · 🟩🟩⬜️⬜️ 40% Complete... 
@@ -32,17 +36,10 @@ As of February 2025 I kicked this off by doing online courses, certifications an
 - Course: [React Advanced · Codecademy](https://www.codecademy.com/learn/learn-advanced-react) ✅ Completed in Feb 2025
 - Course: [React 101 · Codecademy](https://www.codecademy.com/learn/react-101) ✅ Completed in Feb 2025
 
-### Notes
+### Misc
 
+- [Roadmap for next topics](https://github.com/0xadri/notes-js/blob/main/__potential-courses-and-topics.md)
 - [All My Tech Notes](https://github.com/0xadri/notes-js) · I always take notes
-
-### Tech Covered
-
-`JavaScript` · `Typescript` · `React` · `React Native` · `NextJS` · `NodeJS` · `MongoDB` · `Mongoose` · `Cloudinary` · `Data Fetching & Rest APIs` · `Vercel` · `AWS` · `Vite` · `NextAuth (GoogleAuth)` · `Testing (Jest, RTL)` · `Redux (RTK, ImmerJS)` · `Mapbox maps` · `React Geocode` · `TailwindCSS`
-
-✣ `React` includes `re-renders`, `jsx`, `states`, `props`, `hooks`, `effects`, `context api`, `prev`.
- 
-✣ `JavaScript` includes `ES6+`, `spread syntax`, `destructuring`, `fetch`, `promises`, `async/await`, `callbacks`.
 
 ----------------------------------------
 
