@@ -14,23 +14,23 @@ As of February 2025 I kicked this off by doing online courses, certifications an
 
 ### Fullstack JavaScript Self-Studies
 
-- React Project · Music Fan App ✅ Completed in May 2025 🚀 [Repo + App Link](https://github.com/0xadri/poster-it-app)
-- [React Epic Guide · Course & Projects · Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) · 🟩🟩⬜️⬜️ 40% Complete... 
+- Project: Music Fan App ✅ Completed in May 2025 🚀 [Repo + App Link](https://github.com/0xadri/poster-it-app)
+- Projects & Course: [React Epic Guide · Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) · 🟩🟩⬜️⬜️ 40% Complete... 
 
   ╰┈➤ FYI this one is chunky and takes 6+ weeks if you do it full time
-- 4-1 React Project: Project Mgmt App, Tic-Tac-Toe Game, Investment Calculator, Timer Game  ✅ Completed in Apr 2025 🚀 [Repo + App Link](https://github.com/0xadri/ima-kokode)
-- React Project · Movie Fan App ✅ Completed in Apr 2025 🚀 [Repo + App Link](https://github.com/0xadri/mini-app/tree/main/mini-app)
-- [NextJS Properties Listing App · Course & Project · Udemy](https://www.udemy.com/course/nextjs-from-scratch/) ✅ Completed in Apr 2025 🚀 [Repo + App Link](https://github.com/0xadri/propertypulse)
-- [AWS Cloud Practitioner CLF-C02 · Certification](https://aws.amazon.com/certification/certified-cloud-practitioner/) ✅📜 Certification Passed on Apr 2nd 2025
-- [AWS Cloud Practitioner · 6x Mock Tests · Udemy](https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/)  ✅ Completed in Mar 2025
-- [AWS Cloud Practitioner · Course · Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/) ✅ Completed in Mar 2025
-- [React Native · Course · Codecademy](https://www.codecademy.com/learn/learn-react-native) ✅ Completed in Mar 2025
-- [Typescript · Course · Codecademy](https://www.codecademy.com/enrolled/courses/learn-typescript) ✅ Completed in Mar 2025
-- [Redux · Course · Codecademy](https://www.codecademy.com/learn/learn-redux) ✅ Completed in Feb/Mar 2025
-- [React Testing · Course · Codecademy](https://www.codecademy.com/learn/learn-react-testing) ✅ Completed in Feb 2025
-- [React Router · Course · Codecademy](https://www.codecademy.com/learn/learn-react-router) ✅ Completed in Feb 2025
-- [React Advanced · Course · Codecademy](https://www.codecademy.com/learn/learn-advanced-react) ✅ Completed in Feb 2025
-- [React 101 · Course · Codecademy](https://www.codecademy.com/learn/react-101) ✅ Completed in Feb 2025
+- Project: Project Mgmt App, Tic-Tac-Toe Game, Investment Calculator, Timer Game  ✅ Completed in Apr 2025 🚀 [Repo + App Link](https://github.com/0xadri/ima-kokode)
+- Projects: Movie Fan App ✅ Completed in Apr 2025 🚀 [Repo + App Link](https://github.com/0xadri/mini-app/tree/main/mini-app)
+- Course & Project: [NextJS Properties Listing App · Udemy](https://www.udemy.com/course/nextjs-from-scratch/) ✅ Completed in Apr 2025 🚀 [Repo + App Link](https://github.com/0xadri/propertypulse)
+- Certification: [AWS Cloud Practitioner CLF-C02](https://aws.amazon.com/certification/certified-cloud-practitioner/) ✅📜 Certification Passed on Apr 2nd 2025
+- Tests: [AWS Cloud Practitioner · 6x Mock Tests · Udemy](https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/)  ✅ Completed in Mar 2025
+- Course: [AWS Cloud Practitioner · Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/) ✅ Completed in Mar 2025
+- Course: [React Native · Codecademy](https://www.codecademy.com/learn/learn-react-native) ✅ Completed in Mar 2025
+- Course: [Typescript · Codecademy](https://www.codecademy.com/enrolled/courses/learn-typescript) ✅ Completed in Mar 2025
+- Course: [Redux · Codecademy](https://www.codecademy.com/learn/learn-redux) ✅ Completed in Feb/Mar 2025
+- Course: [React Testing · Codecademy](https://www.codecademy.com/learn/learn-react-testing) ✅ Completed in Feb 2025
+- Course: [React Router · Codecademy](https://www.codecademy.com/learn/learn-react-router) ✅ Completed in Feb 2025
+- Course: [React Advanced · Codecademy](https://www.codecademy.com/learn/learn-advanced-react) ✅ Completed in Feb 2025
+- Course: [React 101 · Codecademy](https://www.codecademy.com/learn/react-101) ✅ Completed in Feb 2025
 
 ### Notes
 
