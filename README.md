@@ -4,7 +4,9 @@
 
 # 🙋‍♂️ About Me
 
-I am resuming my software developer career after a 7-year break. I used to be a programmer from 2010 to 2017. My education includes a BEng Hons (Bachelor) in Computer Engineering, a Java SE Certification, a Developer Bootcamp at FDM Group (London/UK).
+I am resuming my software developer career after a 7-year break. I used to be a programmer from 2010 to 2017. 
+
+My education includes a BEng Hons (Bachelor) in Computer Engineering, a Developer Bootcamp at FDM Group (London/UK) and a Java Certification.
 
 As of February 2025 I started some Fullstack JavaScript self-studies.
 
@@ -19,12 +21,12 @@ As of February 2025 I started some Fullstack JavaScript self-studies.
 ## Track Record
 
 - Project: Music Fan App ✅ Completed in May 2025 🚀 [Repo + App Link](https://github.com/0xadri/poster-it-app)
-- Projects & Course: [React Epic Guide · Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) · 🟩🟩⬜️⬜️ 40% Complete... 
-
+- Projects & Course: [React Epic Guide · Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) · 🟩🟩⬜️⬜️ 40% Complete...
+  
   ╰┈➤ FYI this one is chunky and takes 6+ weeks if you do it full time
-- Project: Project Mgmt App, Tic-Tac-Toe Game, Investment Calculator, Timer Game  ✅ Completed in Apr 2025 🚀 [Repo + App Link](https://github.com/0xadri/ima-kokode)
-- Projects: Movie Fan App ✅ Completed in Apr 2025 🚀 [Repo + App Link](https://github.com/0xadri/mini-app/tree/main/mini-app)
-- Course & Project: [NextJS Properties Listing App · Udemy](https://www.udemy.com/course/nextjs-from-scratch/) ✅ Completed in Apr 2025 🚀 [Repo + App Link](https://github.com/0xadri/propertypulse)
+- Projects: Project Mgmt App, Tic-Tac-Toe Game, Investment Calculator, Timer Game  ✅ Completed in Apr 2025 🚀 [Repo + App Link](https://github.com/0xadri/ima-kokode)
+- Project: Movie Fan App ✅ Completed in Apr 2025 🚀 [Repo + App Link](https://github.com/0xadri/mini-app/tree/main/mini-app)
+- Course: [NextJS Properties Listing App · Udemy](https://www.udemy.com/course/nextjs-from-scratch/) ✅ Completed in Apr 2025 🚀 [Repo + App Link](https://github.com/0xadri/propertypulse)
 - Certification: [AWS Cloud Practitioner CLF-C02](https://aws.amazon.com/certification/certified-cloud-practitioner/) ✅📜 Certification Passed on Apr 2nd 2025
 - Tests: [AWS Cloud Practitioner · 6x Mock Tests · Udemy](https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/)  ✅ Completed in Mar 2025
 - Course: [AWS Cloud Practitioner · Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/) ✅ Completed in Mar 2025
@@ -38,8 +40,8 @@ As of February 2025 I started some Fullstack JavaScript self-studies.
 
 ### Misc
 
-- [Roadmap for next topics](https://github.com/0xadri/notes-js/blob/main/__potential-courses-and-topics.md)
-- [All My Tech Notes](https://github.com/0xadri/notes-js) · I always take notes
+- Roadmap: [Next topics & courses](https://github.com/0xadri/notes-js/blob/main/__potential-courses-and-topics.md)
+- Notes: [All My Tech Notes](https://github.com/0xadri/notes-js)
 
 ----------------------------------------
 
