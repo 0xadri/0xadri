@@ -24,7 +24,7 @@ As of February 2025 I am resuming my programmer career, kicking this off with so
 - Projects & Course: [React Epic Guide · Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) · 🟩🟩⬜️⬜️ 40% Complete...
   
   ╰┈➤ FYI this one is chunky and takes 6+ weeks if you do it full time
-- Projects: Project Mgmt App, Tic-Tac-Toe Game, Investment Calculator, Timer Game  ✅ Completed in Apr 2025 🚀 [Repo + App Link](https://github.com/0xadri/ima-kokode)
+- Projects:  Tic-Tac-Toe Game + Project Mgmt App + Investment Calculator + Timer Game ✅ Completed in Apr 2025 🚀 [Repo + App Link](https://github.com/0xadri/ima-kokode)
 - Project: Movie Fan App ✅ Completed in Apr 2025 🚀 [Repo + App Link](https://github.com/0xadri/mini-app/tree/main/mini-app)
 - Course: [NextJS Properties Listing App · Udemy](https://www.udemy.com/course/nextjs-from-scratch/) ✅ Completed in Apr 2025 🚀 [Repo + App Link](https://github.com/0xadri/propertypulse)
 - Certification: [AWS Cloud Practitioner CLF-C02](https://aws.amazon.com/certification/certified-cloud-practitioner/) ✅📜 Certification Passed on Apr 2nd 2025
