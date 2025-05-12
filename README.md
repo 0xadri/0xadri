@@ -20,10 +20,10 @@ As of February 2025 I am resuming my programmer career, kicking this off with so
 
 ## Track Record
 
-- Course: [Build REST APIs w NodeJS, Express, GraphQL, MongoDB · Udemy](https://www.udemy.com/course/nodejs-the-complete-guide/) · takes approx 20 days FT ·  🟩⬜️⬜️⬜️ 10% Complete...
-- Course: [Build Microservices w NodeJS, Docker, Kubernetes · Udemy](https://www.udemy.com/course/microservices-with-node-js-and-react) · takes approx 25 days FT ·  🟩⬜️⬜️⬜️ 10% Complete...
+- Course: [Build REST APIs w NodeJS, Express, GraphQL, MongoDB · Udemy](https://www.udemy.com/course/nodejs-the-complete-guide/) · takes approx 20 days FT ·  🟩⬜️⬜️⬜️ 15%
+- Course: [Build Microservices w NodeJS, Docker, Kubernetes · Udemy](https://www.udemy.com/course/microservices-with-node-js-and-react) · takes approx 25 days FT ·  🟩⬜️⬜️⬜️ 10%
 - Project: [Music Fan App](https://github.com/0xadri/poster-it-app) ✅ May 2025
-- Course: [React Epic Guide · Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) · takes approx 30 days FT ·  🟩🟩⬜️⬜️ 40% Complete...
+- Course: [React Epic Guide · Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) · takes approx 30 days FT ·  🟩🟩⬜️⬜️ 40%
 - Projects: [Investment App + Task Manager App + Tic-Tac-Toe Game + Timer Game](https://github.com/0xadri/ima-kokode) ✅ Apr 2025
 - Project: [Movie Fan App](https://github.com/0xadri/mini-app/tree/main/mini-app) ✅ Apr 2025
 - Project: [Properties Listing App (NextJS)](https://github.com/0xadri/propertypulse) ✅ Apr 2025
