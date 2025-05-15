@@ -4,15 +4,15 @@
 
 # 🙋‍♂️ About Me
 
-I used to be a software developer from 2010 to 2017. I took a 7-year break where I still worked in tech but in non-technical positions.
+I used to be a programmer from 2010 to 2017. I took a 7-year break where I still worked in tech but in non-technical positions.
 
-My education includes a BEng Hons (Bachelor) in Computer Engineering, a Developer Bootcamp at FDM Group (London/UK) and a Java Certification.
+My education includes a BEng Hons (Bachelor) in Computer Engineering, a Backend Developer Bootcamp in London/UK (FDM Group) and a Java Certification.
 
-As of February 2025 I am resuming my programmer career, kicking this off with some Fullstack JavaScript self-studies.
+As of February 2025 I am resuming my software developer career, kicking this off with self-studies focused on Fullstack JavaScript.
 
 ## Tech Covered So Far
 
-`JavaScript` · `Typescript` · `React` · `React Native` · `NextJS` · `NodeJS` · `MongoDB` · `Mongoose` · `Cloudinary` · `Data Fetching & Rest APIs` · `Vercel` · `AWS` · `Vite` · `NextAuth (GoogleAuth)` · `Testing (Jest, RTL)` · `Redux (RTK, ImmerJS)` · `Mapbox maps` · `React Geocode` · `TailwindCSS`
+`JavaScript` · `Typescript` · `React` · `React Native` · `NextJS` · `NodeJS` · `Express` · `MongoDB` · `Mongoose` · `TailwindCSS` · `Data Fetching (Rest APIs)` · `Express Rest APIs` · `Vite` · `Webpack` · `AWS` · `AWS S3` · `Render` · `Vercel` · `Cloudinary` · `NextAuth (GoogleAuth)` · `Testing (Jest, RTL)` · `Redux (RTK, ImmerJS)` · `Mapbox maps` · `React Geocode`
 
 ✣ `React` includes `re-renders`, `jsx`, `states`, `props`, `hooks`, `effects`, `context api`, `prev`, `best practices`.
  
