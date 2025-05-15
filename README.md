@@ -20,7 +20,7 @@ As of February 2025 I am resuming my programmer career, kicking this off with so
 
 ## Track Record
 
-- Project: [Basic REST API built w Node.js & Express](https://github.com/0xadri/nodejs-REST-API-basics) ✅ May 2025
+- Project: [Basic REST API w Node.js & Express](https://github.com/0xadri/nodejs-REST-API-basics) ✅ May 2025
 - Course: [Build REST APIs w NodeJS, Express, GraphQL, MongoDB · Udemy](https://www.udemy.com/course/nodejs-the-complete-guide/) · takes approx 20 days FT ·  🟩⬜️⬜️⬜️ 19%
 - Course: [Build Microservices w NodeJS, Docker, Kubernetes · Udemy](https://www.udemy.com/course/microservices-with-node-js-and-react) · takes approx 25 days FT ·  🟩⬜️⬜️⬜️ 10%
 - Project: [Music Fan App](https://github.com/0xadri/poster-it-app) ✅ May 2025
@@ -40,10 +40,10 @@ As of February 2025 I am resuming my programmer career, kicking this off with so
 - Course: [React Advanced · Codecademy](https://www.codecademy.com/learn/learn-advanced-react) ✅ Feb 2025
 - Course: [React 101 · Codecademy](https://www.codecademy.com/learn/react-101) ✅ Feb 2025
 
-### Misc
+### Docs
 
-- Roadmap: [Next topics & courses](https://github.com/0xadri/notes-js/blob/main/__potential-courses-and-topics.md)
-- Notes: [All My Tech Notes](https://github.com/0xadri/notes-js)
+- Notes: [All My Tech Notes](https://github.com/0xadri/notes-js) · 🟩🟩⬜️⬜️ *forever in progress...*
+- Roadmap: [Next Topics & Courses](https://github.com/0xadri/notes-js/blob/main/__potential-courses-and-topics.md)
 
 ----------------------------------------
 
