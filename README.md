@@ -46,8 +46,10 @@ As of February 2025 I am resuming my software developer career, kicking this off
 
 ### Docs
 
-- Notes: [All My Tech Notes](https://github.com/0xadri/notes-js) · 🟩🟩⬜️⬜️ *forever in progress...*
-- Roadmap: [Next Topics & Courses](https://github.com/0xadri/notes-js/blob/main/__potential-courses-and-topics.md)
+|   |   |   |
+|---|---|---|
+| Notes        | [All My Tech Notes](https://github.com/0xadri/notes-js)                                                                          | 🟩🟩⬜️⬜️  *forever in progress* |
+| Roadmap        | [Next Topics & Courses](https://github.com/0xadri/notes-js/blob/main/__potential-courses-and-topics.md)                        |        ️          |
 
 ### Stats
 
