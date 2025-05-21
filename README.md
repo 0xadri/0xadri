@@ -14,7 +14,7 @@ My education includes a BEng Hons (Bachelor) in Computer Engineering, a Backend 
 
 ## In The Last Months
 
-`JavaScript` · `Typescript` · `React` · `React Native` · `NextJS` · `NodeJS` · `Express` · `MongoDB` · `Mongoose` · `TailwindCSS` · `Data Fetching (Rest APIs)` · `Express Rest APIs` · `Vite` · `Webpack` · `AWS` · `AWS S3` · `Render` · `Vercel` · `Cloudinary` · `NextAuth (GoogleAuth)` · `Testing (Jest, RTL)` · `Redux (RTK, ImmerJS)` · `Mapbox maps` · `React Geocode`
+`JavaScript` · `Typescript` · `React` · `React Native` · `NextJS` · `NodeJS` · `Express` · `MongoDB` · `Mongoose` · `TailwindCSS` · `Data Fetching (Rest APIs)` · `REST API w Express` · `Vite` · `Webpack` · `AWS` · `AWS S3` · `Render` · `Vercel` · `Cloudinary` · `NextAuth (GoogleAuth)` · `Testing (Jest, RTL)` · `Redux (RTK, ImmerJS)` · `Mapbox maps` · `React Geocode`
 
 ✣ `React` includes `re-renders`, `jsx`, `states`, `props`, `hooks`, `effects`, `context api`, `prev`, `best practices`.
  
