@@ -2,11 +2,11 @@
 
 # 🙋‍♂️ About Me
 
+As of February 2025 I am resuming my software developer career, kicking this off with self-studies focused on Fullstack JavaScript.
+
 I used to be a programmer from 2010 to 2017. I took a 7-year break where I still worked in tech but in non-technical positions.
 
 My education includes a BEng Hons (Bachelor) in Computer Engineering, a Backend Developer Bootcamp in London/UK (FDM Group) and a Java Certification.
-
-As of February 2025 I am resuming my software developer career, kicking this off with self-studies focused on Fullstack JavaScript.
 
 # 🛠️ Tech Stack
 
