@@ -2,7 +2,7 @@
 
 # 🙋‍♂️ About Me
 
-As of February 2025 I am resuming my software developer career, kicking this off with self-studies focused on Fullstack JavaScript.
+As of February 2025 I resumed my software developer career, kicking this off with self-studies focused on Fullstack JavaScript.
 
 I used to be a programmer from 2010 to 2017. I took a 7-year break where I still worked in tech but in non-technical positions.
 
