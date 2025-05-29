@@ -6,7 +6,7 @@ As of February 2025 I resumed my software developer career, kicking this off wit
 
 I worked as a programmer from 2010 to 2017. Then in non-technical positions, but still in tech, from 2018 to 2024.
 
-My education includes a BEng Hons (Bachelor) in Computer Engineering, and a Backend Developer Bootcamp in London.
+My education includes a BEng Hons (Bachelor) in Computer Engineering, and a 9mo Backend Developer Bootcamp in London.
 
 # 🛠️ Tech Stack
 
