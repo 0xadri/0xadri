@@ -67,8 +67,8 @@ My education includes a BEng Hons (Bachelor) in Computer Engineering, and a 9mo 
 
 # 📫 Get in Touch
 
-**LinkedIn**: [Adrien on LinkedIn](https://www.linkedin.com/in/adrienbe/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrienbe/) 
 
-**Stackoverflow**: [Adrien on Stackoverflow](https://stackoverflow.com/users/759452/adri-w-ukraine) · *20K+ points*
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%20%23F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/759452/adri-w-ukraine) *20K+ points*
 
-**Resume**: Available On Request · *covers 2009-2017 in details*
+**Resume** available on request.
