@@ -22,6 +22,8 @@ My education includes a BEng Hons (Bachelor) in Computer Engineering, and a 9mo 
 
 <h2><img src="https://emoji.slack-edge.com/T7DMEKZMH/deployparrot/ef6c902688cec864.gif" height="30"/> Track Record</h2>
 
+Getting things done by prioritizing shipping projects, completing courses and publicly sharing progress.
+
 | Type          | Description                                                                                                                     | Status          | Comment             | 
 |---------------|---------------------------------------------------------------------------------------------------------------------------------|-----------------|---------------------|
 | Project       | WealthPorn App. MERN stack. [Backend REST API in Node, Express & MongoDB](https://github.com/0xadri/wealth-porn-backend-restapi) and [Frontend in React](https://github.com/0xadri/wealth-porn-frontend-react) | 🟩⬜️⬜️⬜️ 25%     |                     | 
