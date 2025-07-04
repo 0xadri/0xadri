@@ -54,7 +54,7 @@ Getting things done by prioritizing 1/ shipping projects, 2/ completing courses 
 |   |   |   |
 |---|---|---|
 | Notes        | [All My Tech Notes](https://github.com/0xadri/notes-js)                                                                          | 🟩🟩⬜️⬜️  *forever in progress* |
-| Roadmap        | [Next Topics & Courses](https://github.com/0xadri/notes-js/blob/main/__potential-courses-and-topics.md)                        |        ️          |
+| Roadmap        | [Next Topics & Courses](https://github.com/0xadri/notes-js/blob/main/___potential-courses-and-topics.md)                        |        ️          |
 
 ### Stats
 
