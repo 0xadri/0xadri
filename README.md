@@ -2,11 +2,19 @@
 
 # 🙋‍♂️ About Me
 
-As of February 2025 I resumed my software developer career, kicking this off with self-studies focused on Fullstack JavaScript.
+👨‍💻 About Me: Front End Engineer with 7 years of experience. Expert in React, JavaScript, Node and Express. Interested in AWS, REST APIs and Web Performance. I love great UI/UX design.
 
-I worked as a programmer from 2010 to 2017. Then in non-technical positions, but still in tech, from 2018 to 2024.
+🛠️ Key contributor to building eCommerce platforms from scratch, collaborating with stakeholders to bridge the gap between UI designs and technical implementations. Features include product view, product-search view, add-to-cart, add-to-wishlist, and marketing teaser interactions.
 
-My education includes a BEng Hons (Bachelor) in Computer Engineering, and a 9mo Backend Developer Bootcamp in London.
+💻 Languages & Frameworks: React, Node, Express, JavaScript, TypeScript, JSX, HTML, Tailwind, CSS.
+
+🔧 Technologies & Tools: Webpack, Vite, MongoDB, Lighthouse, CSS-in-JS, Styled Components, Git, Responsive Design, Figma.
+
+☁️ Cloud: AWS (S3, EC2, ECS, RDS, Lambda), Docker, GitLab, CI/CD Pipelines.
+
+👀 Interests: REST APIs, Web Performance, Testing, Micro Services.
+
+🌍 I am into exercising, outdoors and languages - which sparked my passion for traveling and living abroad.
 
 # 🛠️ Tech Stack
 
