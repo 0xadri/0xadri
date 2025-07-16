@@ -12,7 +12,7 @@
 
 👀 Interests: REST APIs, Web Performance, Testing, Micro Services.
 
-🌍 I am into exercising, outdoors and languages - which sparked my passion for traveling and living abroad.
+🌍 In my free time, I like exercising, exploring outdoors and traveling.
 
 # 🛠️ Tech Stack
 
