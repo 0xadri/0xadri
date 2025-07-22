@@ -2,6 +2,8 @@
 
 👨‍💻 Hi, I am a Front End Engineer with 7 years of experience. Expert in React, JavaScript, Node and Express. Interested in AWS, REST APIs and Web Performance. I love great UI/UX design.
 
+🚀 My personal motto: "Build with passion".
+
 🛠️ Key contributor to building eCommerce platforms from scratch, collaborating with stakeholders to bridge the gap between UI designs and technical implementations. Features include product view, product-search view, add-to-cart, add-to-wishlist, and marketing teaser interactions.
 
 💻 Languages & Frameworks: React, Node, Express, JavaScript, TypeScript, JSX, HTML, Tailwind, CSS.
