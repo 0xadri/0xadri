@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&width=435&lines=Hello%2C+it's+Adrien;Fullstack+Developer)](https://git.io/typing-svg)
 
-👨‍💻 Hi, I am Frontend Engineer with 9 years of experience. Expert in React, Typescript, Node and cloud on AWS. Passionate about Web Performance, Scalability and Micro-frontends. One of my proudest achievements is that I have architected and developed 5+ ecommerce platforms for several industry leaders in the medical and retail sector (Bertelsmann Group, Transa.ch, Sonova) with over 100K+ daily visits.
+👨‍💻 I am Frontend Engineer with 9 years of experience. Expert in React, Typescript, Node and cloud on AWS. Passionate about Web Performance, Scalability and Micro-frontends. One of my proudest achievements is that I have architected and developed 5+ ecommerce platforms for several industry leaders in the medical and retail sector (Bertelsmann Group, Transa.ch, Sonova) with over 100K+ daily visits.
 
 🚀 My personal motto: "Build with passion".
 
@@ -8,7 +8,7 @@
 
 💻 Languages & Frameworks: React, Node, Express, JavaScript, TypeScript, JSX, HTML, Tailwind, CSS.
 
-🔧 Technologies & Tools: Webpack, Vite, MongoDB, Lighthouse, CSS-in-JS, Styled Components, Git, Responsive Design, Figma, Cursor, Claude.
+🔧 Technologies & Tools: Webpack, Vite, MongoDB, Lighthouse, CSS-in-JS, Styled Components, Git, Responsive Design, Figma, VS, Cursor, Claude.
 
 ☁️ Cloud: AWS (S3, EC2, ECS, RDS, Lambda), Docker, GitLab, CI/CD Pipelines.
 
