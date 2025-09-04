@@ -30,7 +30,7 @@
 
 [![Email](https://img.shields.io/badge/Email-EA4335.svg?logo=gmail&logoColor=white)]() <sup>adrien.be.pro(at)gmail.com</sup>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrienbe/) <sup>Add a personalised note if you send me a connection request. Thx</sup>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrideveloper/) <sup>Please add a personalised note if you send me a connection request.</sup>
 
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%20%23F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/759452/adri-w-ukraine) <sup>20K+ points</sup>
 
