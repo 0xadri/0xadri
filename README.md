@@ -4,7 +4,7 @@
 
 🚀 My personal motto: "Build with passion".
 
-✨ AI: Claude Code, Copilot, OpenCode, Pi, Cursor; LLM series GPT, GLM, Claude, Gemini; SDDs, Agent Skills, AGENTS.md, and more.
+✨ AI: Claude Code, OpenCode, Pi, Cursor, Copilot - LLM series GPT, Claude, Gemini, GLM - SDDs, Agent Skills, AGENTS.md, and more.
 
 I always take notes, check them out in [my GitBook](https://adrien.gitbook.io/notes/)
 
