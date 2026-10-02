@@ -2,7 +2,7 @@
 
 👨‍💻 About Me: Frontend Engineer expert in React, Typescript, Node and cloud on AWS.
 
-🚀 My personal motto: "Build with passion".
+🚀 My personal motto: "Build with passion. Humble beginnings, ambitious goals, consistent work".
 
 ✨ AI: Claude Code, OpenCode, Pi, Cursor, Copilot - LLM series GPT, Claude, Gemini, GLM - SDDs, Agent Skills, AGENTS.md, and more.
 
